@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Sigmar+One&display=swap');
+
+
+/*titre de page*/
+/* st.title*/
+h1 {
+    font-family: "Sigmar One", sans-serif;
+    font-size: 60px;
+    font-weight: 10;
+    color: #78ddd1;
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+/* st.header*/
+/*sous-titre*/
+h2 {
+    font-family: "Bubblegum Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color: #78ddd1;
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+/*st.subheader*/
+h3 {
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    color: #F89C74;
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+/* text */
+text {
+    font-family: "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: #78ddd1;
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+
+/* texte titre bouton */
+/*.st-emotion-cache-ue6h4q */
+p {
+    font-family: "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: #78ddd1;
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+/*ligne de séparation de texte*/
+.st-emotion-cache-vdokb0 e1nzilvr5 {
+    color: #78ddd1;
+}
+
+/* st.text */
+.st-emotion-cache-183lzff {
+    font-family: "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: #78ddd1;
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+
+/*barre deploy*/
+.st-emotion-cache-12fmjuu {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 1px;
+    background: #012622;
+    color: #78ddd1;
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
+
+/* Sidebar */
+.st-emotion-cache-1gv3huu {
+    background: #000000;
+    background-color: #000000;
+}
+
+/*X de la sidebar */
+.st-emotion-cache-1pbsqtx {
+    color: #78ddd1;
+}
+
+/* menu sidebar*/
+.st-emotion-cache-vk3wp9 {
+    background-color: #012622;
+    color: #1f5752;
+}
